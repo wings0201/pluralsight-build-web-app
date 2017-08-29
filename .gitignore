@@ -1,0 +1,8 @@
+build/Release
+dist
+node_modules/
+public/lib
+*.log
+.npm
+.grunt
+logs
